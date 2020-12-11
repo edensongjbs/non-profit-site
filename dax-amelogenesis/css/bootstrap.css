@@ -1959,6 +1959,11 @@ pre code {
   }
 }
 
+.flex-container {
+  display:flex;
+  justify-content: center;
+}
+
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
