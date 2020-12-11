@@ -977,6 +977,13 @@ figure {
   margin-bottom: 30px;
 }
 
+.fh5co-testimonial-2 {
+  position: relative;
+  /* background: #fff; */
+  padding: 1em 0;
+  /* border-radius: 5px; */
+}
+
 .fh5co-testimonial, .fh5co-team {
   position: relative;
   background: #fff;
@@ -1039,7 +1046,10 @@ figure {
   line-height: 1.6em;
   color: #555555;
 }
-.fh5co-testimonial span, .fh5co-team span {
+.fh5co-testimonial span, .fh5co-testimonial-2 span, .fh5co-team span {
+  font-style: italic;
+  color: #b3b3b3;
+} .fh5co-team span {
   font-style: italic;
   color: #b3b3b3;
 }
