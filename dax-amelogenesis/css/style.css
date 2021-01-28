@@ -7,9 +7,10 @@
 }
 /* =======================================================
 *
-* orig background color: #4169e1
-* try: #4169e1
-  try: #4169e1
+* orig background color: #4169e1 (orig orange)
+* try: #4169e1 (original light blue)
+  try: #4169e1 (royal blue)
+  try: #25a9e3 (happy tooth blue)
 * 	Template Style 
 *	Edit this section
 *
@@ -1501,6 +1502,10 @@ figure {
 
 .services-section {
   background-image:url("../images/istockphoto-487226419-1024x1024.jpg")
+}
+
+.tooth-pic {
+  max-width: 100px;
 }
 
 /*# sourceMappingURL=style.css.map */
