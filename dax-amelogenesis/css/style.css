@@ -1480,4 +1480,23 @@ figure {
   background: url(../images/hourglass.svg) center no-repeat #222222;
 }
 
+
+@media screen and (max-width: 480px) {
+  .wrap-mobile {
+    max-width: 200px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .wrap-mobile {
+    max-width: 350px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .wrap-mobile {
+    max-width: 350px;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
