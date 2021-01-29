@@ -1508,4 +1508,9 @@ figure {
   max-width: 100px;
 }
 
+span#colorful {
+  text-transform: lowercase;
+  font-size: 90px;
+}
+
 /*# sourceMappingURL=style.css.map */
