@@ -1511,6 +1511,35 @@ figure {
 span#colorful {
   text-transform: lowercase;
   font-size: 90px;
+  text-shadow: 0 0 50px 0;
 }
+
+span#colorful span:nth-child(1) {
+  color: red
+}
+
+span#colorful span:nth-child(2) {
+  color:#004f9d
+}
+
+span#colorful span:nth-child(3) {
+  color:#f7921d
+}
+
+span#colorful span:nth-child(4) {
+  color:#00a49d
+}
+
+span#colorful span:nth-child(5) {
+  color:#6a2c91
+}
+
+/* span#colorful span {
+  margin:0 0 0 0;
+} */
+
+
+
+
 
 /*# sourceMappingURL=style.css.map */
