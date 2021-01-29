@@ -389,7 +389,8 @@ figure {
   }
 }
 #fh5co-logo a {
-  color: #4169e1;
+  color: #25a9e3;
+  text-shadow: 1px 1px #ccc;
 }
 #fh5co-logo a:hover, #fh5co-logo a:focus {
   color: #4169e1 !important;
@@ -1511,7 +1512,7 @@ figure {
 span#colorful {
   text-transform: lowercase;
   font-size: 90px;
-  text-shadow: 0 0 50px 0;
+  text-shadow: 1px 1px #ccc;
 }
 
 span#colorful span:nth-child(1) {
@@ -1532,6 +1533,10 @@ span#colorful span:nth-child(4) {
 
 span#colorful span:nth-child(5) {
   color:#6a2c91
+}
+
+.site-title a {
+  color: #25a9e3;
 }
 
 /* span#colorful span {
