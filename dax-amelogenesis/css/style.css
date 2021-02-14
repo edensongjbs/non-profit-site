@@ -1502,7 +1502,9 @@ figure {
 }
 
 .services-section {
-  background-image:url("../images/istockphoto-487226419-1024x1024.jpg")
+  background-image:url("../images/colorful-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .tooth-pic {
@@ -1543,8 +1545,9 @@ span#colorful span:nth-child(5) {
   margin:0 0 0 0;
 } */
 
-
-
-
+.links-columns {
+  display: flex;
+  justify-content: center;
+}
 
 /*# sourceMappingURL=style.css.map */
